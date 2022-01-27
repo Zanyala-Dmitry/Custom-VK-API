@@ -1,0 +1,14 @@
+{
+    "User_1_login": "",
+    "User_1_password": "",
+    "User_1_token": "",
+    "User_2_login": "",
+    "User_2_password": "",
+    "User_2_token": "",
+    "UploadingPhotoPngPath": "resources/Lake.png",
+    "UploadingPhotoJpgPath": "resources/Lake.jpg",
+    "UploadingDocPath": "resources/Document.txt",
+    "UploadingDocName": "Document.txt",
+    "MinRandomizeStringLength": 5,
+    "MaxRandomizeStringLength": 20
+}
